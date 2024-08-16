@@ -104,7 +104,9 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
 }
-
+.white {
+  background-color: #FFFFFF;
+}
 .service-item {
   background-color: #FFFFFF;
   color: #3A1313;
