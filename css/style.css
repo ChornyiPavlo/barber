@@ -114,7 +114,10 @@ body {
   border-radius: 10px;
   text-align: center;
 }
-
+.green {
+  color: green;
+  font-weight: bold;
+}
 .service-item h3 {
   font-size: 24px;
   margin-bottom: 10px;
