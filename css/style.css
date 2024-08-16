@@ -534,6 +534,9 @@ nav ul li:hover a{
   color: #1E75D9; }
 .navbar-nav .sub-nav-toggler {
   display: none; }
+.form-contact {
+  width: 60%;
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .navbar-nav .sub-nav-toggler {
     display: block;
@@ -557,7 +560,11 @@ nav ul li:hover a{
     font-size: 18px;
     border: 0;
     width: 30px;
-    height: 30px; } }
+    height: 30px; }
+  .form-contact {
+    width: 100%;
+  }
+}
 .navbar-nav .sub-nav-toggler span {
   width: 8px;
   height: 8px;
@@ -578,9 +585,6 @@ nav ul li:hover a{
   display: flex;
   justify-content: center;
   margin-bottom: 90px;
-}
-.form-contact {
-  width: 60%;
 }
 .input_bg {
   width: 60%;
