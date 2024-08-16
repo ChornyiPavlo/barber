@@ -114,7 +114,7 @@ body {
   border-radius: 10px;
   text-align: center;
 }
-.green {
+.service-item .price .green {
   color: green;
   font-weight: bold;
   font-size: 23px;
